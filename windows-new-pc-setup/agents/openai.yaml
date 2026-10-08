@@ -1,0 +1,4 @@
+interface:
+  display_name: "Windows 新电脑安装"
+  short_description: "按指定路径的个人笔记安装 Windows 常用软件、终端与开发语言环境并核验"
+  default_prompt: "使用 $windows-new-pc-setup 直接读取我指定路径下的笔记配置这台新电脑；若尚未提供笔记路径，先询问路径。排除手动安装和可选项，按基础环境、常用软件、开发语言的顺序执行并记录结果。"
