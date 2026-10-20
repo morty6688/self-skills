@@ -1,0 +1,4 @@
+interface:
+  display_name: "书籍章节排版"
+  short_description: "统一中英文 Markdown 书籍的术语、图表、公式、注释与双向引用"
+  default_prompt: "使用 $book-style 规范当前 Markdown 书籍章节的格式，保留原文内容并检查双向链接。"
